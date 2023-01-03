@@ -1,1 +1,1 @@
-# CV (htms, css, javascript)
+# CV (html, css, javascript)
